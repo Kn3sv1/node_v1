@@ -1,2 +1,18 @@
 
 https://javascript.info/import-export
+
+https://appdividend.com/2019/01/23/javascript-import-statement-tutorial-with-example/
+
+https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac
+
+https://www.tutorialsteacher.com/typescript
+
+https://tproger.ru/translations/unit-testing-in-javascript/
+
+
+
+1) NodeJS
+2) import/export  +++ require
+3) typescript
+4) Angular
+5) Big Data

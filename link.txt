@@ -1,2 +1,8 @@
 
 https://stackoverflow.com/questions/28782656/how-to-run-node-js-app-with-es6-features-enabled
+
+
+PS C:\Users\r_satanovskyi\projects\typescript\v1_import> npm start
+
+
+PS C:\Users\r_satanovskyi\projects\typescript\v1_import> npm run-script build
